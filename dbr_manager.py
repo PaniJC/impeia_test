@@ -2,7 +2,6 @@ import json
 import sqlite3
 
 
-
 json_file_name = './data_with_coordinates.json'
 # Datos del JSON
 
