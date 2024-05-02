@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "titulo": "El se\u00f1or de los anillos",
+        "autor_nombre": "J.R.R. Tolkien",
+        "autor_nacionalidad": "Inglaterra",
+        "autor_fecha_nacimiento": "1892-01-03",
+        "autor_genero": "Fantas\u00eda",
+        "nombre_editorial": "Minotauro",
+        "ubicacion_editorial": "Espa\u00f1a",
+        "isbn": "9788445072515",
+        "precio": 20.5,
+        "cantidad_stock": 100,
+        "coordenadas_editorial": [
+            40.46366700000001,
+            -3.74922
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor_nombre": "Gabriel Garc\u00eda M\u00e1rquez",
+        "autor_nacionalidad": "Colombia",
+        "autor_fecha_nacimiento": "1927-03-06",
+        "autor_genero": "Realismo m\u00e1gico",
+        "nombre_editorial": "Diana",
+        "ubicacion_editorial": "Colombia",
+        "isbn": "9788423349802",
+        "precio": 18.75,
+        "cantidad_stock": 75,
+        "coordenadas_editorial": [
+            4.570868,
+            -74.297333
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "1984",
+        "autor_nombre": "George Orwell",
+        "autor_nacionalidad": "Reino Unido",
+        "autor_fecha_nacimiento": "1903-06-25",
+        "autor_genero": "Ciencia ficci\u00f3n",
+        "nombre_editorial": "Secker & Warburg",
+        "ubicacion_editorial": "Reino Unido",
+        "isbn": "978-0451524935",
+        "precio": 15.99,
+        "cantidad_stock": 50,
+        "coordenadas_editorial": [
+            55.378051,
+            -3.435973
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Moby Dick",
+        "autor_nombre": "Herman Melville",
+        "autor_nacionalidad": "Estados Unidos",
+        "autor_fecha_nacimiento": "1819-08-01",
+        "autor_genero": "Ficci\u00f3n de aventuras",
+        "nombre_editorial": "Harper & Brothers",
+        "ubicacion_editorial": "Estados Unidos",
+        "isbn": "9780142000083",
+        "precio": 22.99,
+        "cantidad_stock": 80,
+        "coordenadas_editorial": [
+            37.09024,
+            -95.712891
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Orgullo y prejuicio",
+        "autor_nombre": "Jane Austen",
+        "autor_nacionalidad": "Reino Unido",
+        "autor_fecha_nacimiento": "1775-12-16",
+        "autor_genero": "Novela rom\u00e1ntica",
+        "nombre_editorial": "Thomas Egerton",
+        "ubicacion_editorial": "Reino Unido",
+        "isbn": "9780141439518",
+        "precio": 17.5,
+        "cantidad_stock": 90,
+        "coordenadas_editorial": [
+            55.378051,
+            -3.435973
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "El gran Gatsby",
+        "autor_nombre": "F. Scott Fitzgerald",
+        "autor_nacionalidad": "Estados Unidos",
+        "autor_fecha_nacimiento": "1896-09-24",
+        "autor_genero": "Novela contempor\u00e1nea",
+        "nombre_editorial": "Charles Scribner's Sons",
+        "ubicacion_editorial": "Estados Unidos",
+        "isbn": "9780743273565",
+        "precio": 19.95,
+        "cantidad_stock": 60,
+        "coordenadas_editorial": [
+            37.09024,
+            -95.712891
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Don Quijote de la Mancha",
+        "autor_nombre": "Miguel de Cervantes",
+        "autor_nacionalidad": "Espa\u00f1a",
+        "autor_fecha_nacimiento": "1547-09-29",
+        "autor_genero": "Novela picaresca",
+        "nombre_editorial": "Francisco de Robles",
+        "ubicacion_editorial": "Espa\u00f1a",
+        "isbn": "9788424119656",
+        "precio": 16.0,
+        "cantidad_stock": 70,
+        "coordenadas_editorial": [
+            40.46366700000001,
+            -3.74922
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Matar un ruise\u00f1or",
+        "autor_nombre": "Harper Lee",
+        "autor_nacionalidad": "Estados Unidos",
+        "autor_fecha_nacimiento": "1926-04-28",
+        "autor_genero": "Novela dram\u00e1tica",
+        "nombre_editorial": "J. B. Lippincott & Co.",
+        "ubicacion_editorial": "Estados Unidos",
+        "isbn": "9780061120084",
+        "precio": 21.99,
+        "cantidad_stock": 85,
+        "coordenadas_editorial": [
+            37.09024,
+            -95.712891
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "Crimen y castigo",
+        "autor_nombre": "Fyodor Dostoevsky",
+        "autor_nacionalidad": "Rusia",
+        "autor_fecha_nacimiento": "1821-11-11",
+        "autor_genero": "Novela psicol\u00f3gica",
+        "nombre_editorial": "The Russian Messenger",
+        "ubicacion_editorial": "Rusia",
+        "isbn": "9780486415871",
+        "precio": 18.5,
+        "cantidad_stock": 95,
+        "coordenadas_editorial": [
+            61.52401,
+            105.318756
+        ]
+    }
+]
