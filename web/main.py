@@ -1,7 +1,7 @@
 import sqlite3
 from flask import Flask, render_template, request, redirect, url_for
 import requests
-from forms import LoginForm
+from forms.forms import LoginForm
 import plotly.graph_objs as go
 
 app = Flask(__name__)

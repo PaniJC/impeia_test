@@ -13,7 +13,8 @@ for book in data:
     book['autor_fecha_nacimiento'] = birth_date    
 
 # Base de datos NoSQL (MongoDB)
-client = MongoClient('localhost', 27017)
+client = MongoClient('mongodb+srv://admin:admin@cluster0.wjdbbxg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+
 db = client['books_db']
 collection = db['books']
 
